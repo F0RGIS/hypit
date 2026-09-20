@@ -64,6 +64,16 @@ reference media through Monid's workspace file system. For another Monid tool, i
 [HTTP API documentation](https://monid.ai/docs/api/overview) supplies the connection details, and
 the Agent can implement the required request and result mapping in a project package.
 
+### OpenRouter
+
+[OpenRouter](https://openrouter.ai) offers image and video models through one Images API and one
+asynchronous Videos API.
+[`@hypit/provider-openrouter`](https://github.com/hypit-ai/hypit/blob/main/packages/provider-openrouter/README.md)
+serves the Seedance 2.0 and 2.5 models, Seedream 5.0 lite, MiniMax H3, GPT Image 2, Nano Banana and
+Grok Imagine models the Distribution describes. Its
+[image](https://openrouter.ai/api/v1/images/models) and
+[video](https://openrouter.ai/api/v1/videos/models) model indexes list the rest.
+
 ## Your own model deployment
 
 A deployment platform supplies somewhere to run a model. The resulting inference service connects
