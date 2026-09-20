@@ -207,6 +207,9 @@ importers:
       '@hypit/provider-monid':
         specifier: workspace:*
         version: link:packages/provider-monid
+      '@hypit/provider-openrouter':
+        specifier: workspace:*
+        version: link:packages/provider-openrouter
       '@hypit/provider-pollo':
         specifier: workspace:*
         version: link:packages/provider-pollo
@@ -2519,6 +2522,43 @@ importers:
         specifier: workspace:*
         version: link:../seedance
 
+  packages/provider-openrouter:
+    dependencies:
+      '@hypit/endpoint-kit':
+        specifier: workspace:*
+        version: link:../endpoint-kit
+      '@hypit/generation':
+        specifier: workspace:*
+        version: link:../generation
+      '@hypit/protocol':
+        specifier: workspace:*
+        version: link:../protocol
+      '@hypit/runtime':
+        specifier: workspace:*
+        version: link:../runtime
+      '@hypit/runtime-kit':
+        specifier: workspace:*
+        version: link:../runtime-kit
+    devDependencies:
+      '@hypit/gpt-image':
+        specifier: workspace:*
+        version: link:../gpt-image
+      '@hypit/grok-imagine':
+        specifier: workspace:*
+        version: link:../grok-imagine
+      '@hypit/minimax-h3':
+        specifier: workspace:*
+        version: link:../minimax-h3
+      '@hypit/nano-banana':
+        specifier: workspace:*
+        version: link:../nano-banana
+      '@hypit/seedance':
+        specifier: workspace:*
+        version: link:../seedance
+      '@hypit/seedream':
+        specifier: workspace:*
+        version: link:../seedream
+
   packages/provider-pollo:
     dependencies:
       '@hypit/endpoint-kit':
@@ -3648,6 +3688,9 @@ importers:
       '@hypit/provider-monid':
         specifier: workspace:*
         version: link:../provider-monid
+      '@hypit/provider-openrouter':
+        specifier: workspace:*
+        version: link:../provider-openrouter
       '@hypit/provider-pollo':
         specifier: workspace:*
         version: link:../provider-pollo

@@ -54,6 +54,13 @@ Pollo 只接受公网 URL 形式的参考素材，带参考素材的请求需要
 使用 Monid 的其他工具时，[HTTP API 文档](https://monid.ai/docs/api/overview)提供接入依据，
 Agent 可以在项目包中实现这次所需的请求与结果映射。
 
+### OpenRouter
+
+[OpenRouter](https://openrouter.ai) 通过统一的图片 API 和异步视频 API 提供多家模型。
+[`@hypit/provider-openrouter`](https://github.com/hypit-ai/hypit/blob/main/packages/provider-openrouter/README.md)
+提供发行包已描述的 Seedance 2.0、2.5 系列、Seedream 5.0 lite、MiniMax H3、GPT Image 2、Nano Banana 和 Grok Imagine。
+其余模型见它的[图片](https://openrouter.ai/api/v1/images/models)与[视频](https://openrouter.ai/api/v1/videos/models)模型目录。
+
 ## 自己部署模型
 
 部署平台提供运行模型的地方，部署得到的推理服务沿用 Model–Provider–Endpoint 的关系接入。
