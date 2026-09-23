@@ -282,14 +282,14 @@ commands and the repository layout.
   </tr>
   <tr>
     <td width="220" align="center">
-      <a href="https://abliteration.ai/?utm_source=hypit">
+      <a href="https://openrouter.ai/?utm_source=hypit">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./docs/public/abliteration-dark.png">
-          <img alt="Abliteration.ai" src="./docs/public/abliteration-light.png" width="200">
+          <source media="(prefers-color-scheme: dark)" srcset="./docs/public/openrouter-dark.svg">
+          <img alt="OpenRouter" src="./docs/public/openrouter-light.svg" width="190">
         </picture>
       </a>
     </td>
-    <td><a href="https://abliteration.ai/?utm_source=hypit">Abliteration.ai</a> is an OpenAI- and Anthropic-compatible API for unrestricted models, with an optional Policy Gateway so teams write their own rules. It hosts abliterated models for security research, red teaming, and agent testing, with zero retention by default.</td>
+    <td><a href="https://openrouter.ai/?utm_source=hypit">OpenRouter</a> is a unified API for hundreds of models from many providers. Hypit can fulfill Seedance, Seedream, MiniMax H3, GPT Image, Nano Banana, and Grok Imagine image and video requests through one OpenRouter key.</td>
   </tr>
 </table>
 

@@ -278,14 +278,14 @@ Agent 会检查环境，索要这条视频需要的凭据，生成素材并构�
   </tr>
   <tr>
     <td width="220" align="center">
-      <a href="https://abliteration.ai/?utm_source=hypit">
+      <a href="https://openrouter.ai/?utm_source=hypit">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./docs/public/abliteration-dark.png">
-          <img alt="Abliteration.ai" src="./docs/public/abliteration-light.png" width="200">
+          <source media="(prefers-color-scheme: dark)" srcset="./docs/public/openrouter-dark.svg">
+          <img alt="OpenRouter" src="./docs/public/openrouter-light.svg" width="190">
         </picture>
       </a>
     </td>
-    <td><a href="https://abliteration.ai/?utm_source=hypit">Abliteration.ai</a> 提供兼容 OpenAI 与 Anthropic 的无限制模型 API，并可选 Policy Gateway，由团队自行制定规则。它托管经过 abliteration 处理的模型，面向安全研究、红队测试与 Agent 测试，默认不保留输入与输出。</td>
+    <td><a href="https://openrouter.ai/?utm_source=hypit">OpenRouter</a> 是接入多家服务商、数百种模型的统一 API。Hypit 可以用一把 OpenRouter 密钥完成 Seedance、Seedream、MiniMax H3、GPT Image、Nano Banana 和 Grok Imagine 的图像与视频请求。</td>
   </tr>
 </table>
 
