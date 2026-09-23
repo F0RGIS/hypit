@@ -276,6 +276,17 @@ Agent 会检查环境，索要这条视频需要的凭据，生成素材并构�
     </td>
     <td><a href="https://beatapi.io/sign-up?aff=hypit">BeatAPI</a> 是面向各类 Agent 的专业能力层，提供 AI 模型、真实世界数据、可直接调用的任务能力和专业工作空间，帮助 Agent 完成真实世界的任务。</td>
   </tr>
+  <tr>
+    <td width="220" align="center">
+      <a href="https://abliteration.ai/?utm_source=hypit">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./docs/public/abliteration-dark.png">
+          <img alt="Abliteration.ai" src="./docs/public/abliteration-light.png" width="200">
+        </picture>
+      </a>
+    </td>
+    <td><a href="https://abliteration.ai/?utm_source=hypit">Abliteration.ai</a> 提供兼容 OpenAI 与 Anthropic 的无限制模型 API，并可选 Policy Gateway，由团队自行制定规则。它托管经过 abliteration 处理的模型，面向安全研究、红队测试与 Agent 测试，默认不保留输入与输出。</td>
+  </tr>
 </table>
 
 ## ⭐ Star History

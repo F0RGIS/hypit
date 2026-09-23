@@ -280,6 +280,17 @@ commands and the repository layout.
     </td>
     <td><a href="https://beatapi.io/sign-up?aff=hypit">BeatAPI</a> is the professional capability layer for any agent. We provide AI models, real-world data, task-ready capabilities, and professional workspaces that help agents complete real-world tasks.</td>
   </tr>
+  <tr>
+    <td width="220" align="center">
+      <a href="https://abliteration.ai/?utm_source=hypit">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./docs/public/abliteration-dark.png">
+          <img alt="Abliteration.ai" src="./docs/public/abliteration-light.png" width="200">
+        </picture>
+      </a>
+    </td>
+    <td><a href="https://abliteration.ai/?utm_source=hypit">Abliteration.ai</a> is an OpenAI- and Anthropic-compatible API for unrestricted models, with an optional Policy Gateway so teams write their own rules. It hosts abliterated models for security research, red teaming, and agent testing, with zero retention by default.</td>
+  </tr>
 </table>
 
 ## ⭐ Star History
