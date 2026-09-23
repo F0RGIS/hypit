@@ -20,7 +20,11 @@
 
 <p align="center">
   <a href="https://trendshift.io/repositories/229030"><img alt="Trendshift 全语言当日第一" src="https://trendshift.io/api/badge/trendshift/repositories/229030/daily"></a>
+</p>
+
+<p align="center">
   <a href="https://trendshift.io/repositories/229030"><img alt="Trendshift TypeScript 当日第一" src="https://trendshift.io/api/badge/trendshift/repositories/229030/daily?language=TypeScript"></a>
+  <a href="https://trendshift.io/repositories/229030?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-229030" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/229030/weekly?language=TypeScript" alt="hypit-ai/hypit | Trendshift TypeScript 周榜" width="250" height="55"></a>
 </p>
 
 <p align="center">
@@ -268,19 +272,19 @@ Agent 会检查环境，索要这条视频需要的凭据，生成素材并构�
   </tr>
   <tr>
     <td width="220" align="center">
-      <a href="https://beatapi.io"><img alt="BeatAPI" src="./docs/public/beatapi.png" width="165"></a>
+      <a href="https://beatapi.io/sign-up?aff=hypit"><img alt="BeatAPI" src="./docs/public/beatapi.png" width="165"></a>
     </td>
-    <td><a href="https://beatapi.io">BeatAPI</a> 是面向各类 Agent 的专业能力层，提供 AI 模型、真实世界数据、可直接调用的任务能力和专业工作空间，帮助 Agent 完成真实世界的任务。</td>
+    <td><a href="https://beatapi.io/sign-up?aff=hypit">BeatAPI</a> 是面向各类 Agent 的专业能力层，提供 AI 模型、真实世界数据、可直接调用的任务能力和专业工作空间，帮助 Agent 完成真实世界的任务。</td>
   </tr>
 </table>
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/?repos=hypit-ai%2Fhypit&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=hypit-ai%2Fhypit&type=date&logscale=&legend=bottom-right">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&theme=dark&logscale&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&logscale&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&legend=bottom-right" />
  </picture>
 </a>
 

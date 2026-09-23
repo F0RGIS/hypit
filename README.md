@@ -20,7 +20,11 @@
 
 <p align="center">
   <a href="https://trendshift.io/repositories/229030"><img alt="Trendshift #1 Repository of the Day" src="https://trendshift.io/api/badge/trendshift/repositories/229030/daily"></a>
+</p>
+
+<p align="center">
   <a href="https://trendshift.io/repositories/229030"><img alt="Trendshift #1 TypeScript Repository of the Day" src="https://trendshift.io/api/badge/trendshift/repositories/229030/daily?language=TypeScript"></a>
+  <a href="https://trendshift.io/repositories/229030?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-229030" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/229030/weekly?language=TypeScript" alt="hypit-ai/hypit | Trendshift TypeScript Weekly" width="250" height="55"></a>
 </p>
 
 <p align="center">
@@ -272,19 +276,19 @@ commands and the repository layout.
   </tr>
   <tr>
     <td width="220" align="center">
-      <a href="https://beatapi.io"><img alt="BeatAPI" src="./docs/public/beatapi.png" width="165"></a>
+      <a href="https://beatapi.io/sign-up?aff=hypit"><img alt="BeatAPI" src="./docs/public/beatapi.png" width="165"></a>
     </td>
-    <td><a href="https://beatapi.io">BeatAPI</a> is the professional capability layer for any agent. We provide AI models, real-world data, task-ready capabilities, and professional workspaces that help agents complete real-world tasks.</td>
+    <td><a href="https://beatapi.io/sign-up?aff=hypit">BeatAPI</a> is the professional capability layer for any agent. We provide AI models, real-world data, task-ready capabilities, and professional workspaces that help agents complete real-world tasks.</td>
   </tr>
 </table>
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/?repos=hypit-ai%2Fhypit&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=hypit-ai%2Fhypit&type=date&logscale=&legend=bottom-right">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&theme=dark&logscale&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&logscale&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&legend=bottom-right" />
  </picture>
 </a>
 
